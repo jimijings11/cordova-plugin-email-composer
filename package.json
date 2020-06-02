@@ -50,5 +50,6 @@
     "url": "https://github.com/katzer/cordova-plugin-email-composer/issues"
   },
   "homepage": "https://github.com/katzer/cordova-plugin-email-composer#readme",
+  "types": "./types/index.d.ts",
   "dependencies": {}
 }
